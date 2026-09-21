@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Seika and Mari//Wedding//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seika-mari-20261114@seika-mari-wedding.netlify.app
+DTSTAMP:20260921T000000Z
+DTSTART:20261114T062000Z
+DTEND:20261114T103000Z
+SUMMARY:鈴木 聖佳・小野瀬 茉里 結婚式
+LOCATION:東京ディズニーシー・ホテルミラコスタ (千葉県浦安市舞浜1-13)
+DESCRIPTION:ご集合 15:20 / 挙式 15:30 / 披露宴 16:30
+URL:https://seika-mari-wedding.github.io/
+END:VEVENT
+END:VCALENDAR
